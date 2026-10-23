@@ -108,7 +108,7 @@ F H <BR>
 
 ## PROGRAM:
 
-```pyhton
+```python
 from collections import defaultdict
 
 def dfs(graph, start, visited, path):
